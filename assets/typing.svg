@@ -1,0 +1,66 @@
+<svg width="700" height="42" viewBox="0 0 700 42" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 18px;
+      fill: #24292f;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      text {
+        fill: #f0f6fc;
+      }
+    }
+
+    .cursor {
+      animation: blink 1s steps(1) infinite;
+    }
+
+    .line1 {
+      animation: line1 12s infinite;
+    }
+
+    .line2 {
+      animation: line2 12s infinite;
+    }
+
+    .line3 {
+      animation: line3 12s infinite;
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+
+    @keyframes line1 {
+      0%, 5% { opacity: 1; }
+      28%, 100% { opacity: 0; }
+    }
+
+    @keyframes line2 {
+      0%, 30% { opacity: 0; }
+      35%, 61% { opacity: 1; }
+      64%, 100% { opacity: 0; }
+    }
+
+    @keyframes line3 {
+      0%, 64% { opacity: 0; }
+      69%, 95% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+  </style>
+
+  <text x="0" y="27" class="line1">
+    building systems · quant software · security
+  </text>
+
+  <text x="0" y="27" class="line2">
+    distributed systems · cloud infrastructure
+  </text>
+
+  <text x="0" y="27" class="line3">
+    engineering for failure · testing assumptions
+  </text>
+
+  <text x="535" y="27" class="cursor">▌</text>
+</svg>
