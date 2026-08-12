@@ -4,18 +4,21 @@
 
 <br>
 
-```text
-victoria@github:~$ whoami
+
+> victoria@github:~$ whoami
 
 CS @ Columbia · SWE · Systems · Quant
 
-victoria@github:~$ currently
+> victoria@github:~$ currently
 
-learning how systems fail
-building how they recover
+*learning how systems fail
+*building how they recover
 
-currently building: SignalGuard
-currently learning: distributed systems
-currently exploring: quantitative research
+**currently building:** SignalGuard
+**currently learning:** distributed systems
+**currently exploring:** quantitative research
+<p align="right">
+  <img src="./assets/horse.png" width="75" alt="">
+</p>
 
 
