@@ -14,7 +14,7 @@ CS @ Columbia · SWE · Systems · Quant
 ↳ learning how systems fail
 ↳ building how they recover
 
-⚒  currently building: SignalGuard
+⚒  currently building: SignalGuard + PayCrypt
 ✎  currently learning: distributed systems
 ⌯✈︎ currently exploring: quantitative research
 ```
