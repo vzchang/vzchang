@@ -5,11 +5,11 @@
 <br>
 
 ```
-> victoria@github:~$ whoami
+> victoriazchang@github:~$ whoami
 
 CS @ Columbia · SWE · Systems · Quant
 
-> victoria@github:~$ currently
+> victoriazchang@github:~$ currently
 
 ↳ learning how systems fail
 ↳ building how they recover
